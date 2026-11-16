@@ -1,0 +1,68 @@
+{
+  "business_name": {
+    "value": "Ash Motors",
+    "listing_display_name": "Ash Motors",
+    "source_url": "https://www.google.com/maps/search/?api=1&query=Ash+Motors+13+Hope+Street+Brunswick+VIC+3056"
+  },
+  "category": {
+    "value": "Auto Mechanic / RWC",
+    "source_url": "https://www.google.com/maps/search/?api=1&query=Ash+Motors+13+Hope+Street+Brunswick+VIC+3056"
+  },
+  "status": {
+    "value": "Operating (Verified)",
+    "source_url": "https://www.google.com/maps/search/?api=1&query=Ash+Motors+13+Hope+Street+Brunswick+VIC+3056"
+  },
+  "address": {
+    "value": "13 Hope St, Brunswick VIC 3056",
+    "region": "Inner North",
+    "source_url": "https://www.google.com/maps/search/?api=1&query=Ash+Motors+13+Hope+Street+Brunswick+VIC+3056"
+  },
+  "phone": {
+    "value": "(03) 9388 1375",
+    "international": "+61 3 9388 1375",
+    "tel_href": "tel:+61393881375",
+    "source_url": "https://www.google.com/maps/search/?api=1&query=Ash+Motors+13+Hope+Street+Brunswick+VIC+3056"
+  },
+  "google_maps": {
+    "search_url": "https://www.google.com/maps/search/?api=1&query=Ash+Motors+13+Hope+Street+Brunswick+VIC+3056",
+    "embed_url": "https://www.google.com/maps?q=Ash+Motors+13+Hope+Street+Brunswick+VIC+3056&z=16&ie=UTF8&output=embed"
+  },
+  "reviews_summary": {
+    "rating": 4.2,
+    "scale": 5,
+    "review_count_approx": 33,
+    "summary_text": "4.2 out of 5 (~33 Google reviews)",
+    "source_url": "https://www.google.com/maps/search/?api=1&query=Ash+Motors+13+Hope+Street+Brunswick+VIC+3056"
+  },
+  "listings": [
+    "Google Maps",
+    "LocalSearch",
+    "TrueLocal"
+  ],
+  "services": [
+    {
+      "name": "Roadworthy Certificates (RWC)",
+      "description": "Thorough roadworthy safety inspections for vehicle transfers, re-registration, and peace of mind—checking brakes, tyres, steering, suspension, lights, and structural condition."
+    },
+    {
+      "name": "Logbook & General Servicing",
+      "description": "Scheduled servicing, engine oil and filter changes, fluid top-ups, and multi-point safety checks for everyday cars across all makes and models."
+    },
+    {
+      "name": "Brakes, Clutch & Suspension",
+      "description": "Brake pad and rotor replacements, hydraulic brake bleeding, shock absorbers, control arm bushes, and steering repairs."
+    },
+    {
+      "name": "Engine Diagnostics & Repairs",
+      "description": "Fault code scanning, check-engine light troubleshooting, cooling system repairs, timing components, and drivability fixes."
+    },
+    {
+      "name": "Pre-Purchase Vehicle Inspections",
+      "description": "Independent hoist inspections and mechanical checks before you commit to buying a used car in Brunswick or the Inner North."
+    },
+    {
+      "name": "Batteries, Alternators & Electrical",
+      "description": "Battery load testing and replacement, starter motor and alternator repairs, and automotive lighting or electrical fault diagnosis."
+    }
+  ]
+}
